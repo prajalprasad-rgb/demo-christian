@@ -60,7 +60,7 @@ export const weddingData = {
   media: {
     heroImage: ("/images/WhatsApp Image 2026-06-07 at 3.25.00 PM (2).jpeg", 1800),
     heroVideo: "", // Example: "/video/hero-video.mp4"
-    couplePhoto: unsplash("photo-1523438885200-e635ba2c371e", 1400),
+    couplePhoto: ("/images/WhatsApp Image 2026-06-07 at 3.25.00 PM (2).jpeg", 1800),
     introImages: [
       unsplash("photo-1519741497674-611481863552", 1600),
       unsplash("photo-1464366400600-7168b8af9bc3", 1600),
