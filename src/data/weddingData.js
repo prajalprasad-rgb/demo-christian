@@ -8,7 +8,7 @@ const unsplash = (id, w = 1400) =>
   `https://images.unsplash.com/${id}?auto=format&fit=crop&w=${w}&q=85`;
 
 export const weddingData = {
-  weddingStyle: "muslim", // "christian" | "muslim" | "hindu"
+  weddingStyle: "christian", // "christian" | "muslim" | "hindu"
 
   coupleTitle: "John & Maria",
   weddingDateDisplay: "24 December 2026",
