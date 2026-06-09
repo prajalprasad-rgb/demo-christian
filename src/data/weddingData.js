@@ -259,16 +259,16 @@ export const weddingData = {
   ],
 
   contact: {
-    whatsappNumber: "919876543210",
-    email: "hello@wedify.in",
-    phone: "+91 98765 43210",
-    address: "Kochi, Kerala, India",
+    whatsappNumber: "916235088556",
+    email: "prajalprasad@gmail.com",
+    phone: "+91 6235088556",
+    address: " Kerala, India",
   },
 
   socialLinks: {
-    instagram: "https://instagram.com/",
+    instagram: "https://www.instagram.com/wedify_invites?igsh=ajI5MzdnYW9icnVm&utm_source=qr",
     facebook: "https://facebook.com/",
-    website: "https://wedify.in",
+    website: "https://wedify.prajal.online",
   },
 
   mapLinks: {
