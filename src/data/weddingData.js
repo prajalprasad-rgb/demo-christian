@@ -58,7 +58,7 @@ export const weddingData = {
   },
 
   media: {
-    heroImage: unsplash("photo-1519741497674-611481863552", 1800),
+    heroImage: unsplash("public/images/photo-1519741497674-611481863552.jpeg", 1800),
     heroVideo: "", // Example: "/video/hero-video.mp4"
     couplePhoto: unsplash("photo-1523438885200-e635ba2c371e", 1400),
     introImages: [
