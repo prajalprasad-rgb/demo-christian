@@ -69,7 +69,7 @@ export const weddingData = {
     scratchCardImage: unsplash("photo-1523438885200-e635ba2c371e", 1200),
     backgroundMusic: {
       enabled: true,
-      src: "wedding-music.mp3", // Example: "/music/wedding-music.mp3"
+      src: "/music/wedding-music.mp3", // Example: "/music/wedding-music.mp3"
       volume: 0.45,
     },
   },
@@ -121,7 +121,7 @@ export const weddingData = {
     hiddenText: "Our Wedding Day",
     revealThreshold: 18,
     autoRevealAfterFirstScratchMs: 650,
-    sound: "scratch-reveal.mp3", // Example: "/music/scratch-reveal.mp3"
+    sound: "/music/scratch-reveal.mp3", // Example: "/music/scratch-reveal.mp3"
   },
 
   navigationLabels: [
