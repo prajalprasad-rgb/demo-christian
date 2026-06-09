@@ -69,7 +69,7 @@ export const weddingData = {
     scratchCardImage: unsplash("photo-1523438885200-e635ba2c371e", 1200),
     backgroundMusic: {
       enabled: true,
-      src: "/music/wedding-music.mp3", // Example: "/music/wedding-music.mp3"
+      src: "/music/scratch-reveal.mp3", // Example: "/music/wedding-music.mp3"
       volume: 0.45,
     },
   },
