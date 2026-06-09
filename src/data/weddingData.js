@@ -121,7 +121,7 @@ export const weddingData = {
     hiddenText: "Our Wedding Day",
     revealThreshold: 18,
     autoRevealAfterFirstScratchMs: 650,
-    sound: "/music/scratch-reveal.mp3", // Example: "/music/scratch-reveal.mp3"
+    sound: "", // Example: "/music/scratch-reveal.mp3"
   },
 
   navigationLabels: [
