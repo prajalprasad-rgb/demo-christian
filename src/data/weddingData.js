@@ -58,7 +58,7 @@ export const weddingData = {
   },
 
   media: {
-    heroImage: "/images/ChatGPT Image Jun 9, 2026, 07_43_53 PM.png",
+    heroImage: "/images/prajal.png",
     heroVideo: "", // Example: "/video/hero-video.mp4"
     couplePhoto: "/images/christian_wedding_4.png",
     introImages: [
