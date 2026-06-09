@@ -65,7 +65,7 @@ export const weddingData = {
      "/images/christian_wedding_1.png",
        "/images/christian_wedding_2.png",
        "/images/christian_wedding_3.png",
-       "/images/christian_wedding_4.png",
+       "/images/prajal.png",
     ],
     scratchCardImage: unsplash("photo-1523438885200-e635ba2c371e", 1200),
     backgroundMusic: {
