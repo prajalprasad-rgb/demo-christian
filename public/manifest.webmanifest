@@ -1,0 +1,15 @@
+{
+  "name": "Wedify Wedding Invitation",
+  "short_name": "Wedify",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f4ec",
+  "theme_color": "#b78b2b",
+  "icons": [
+    {
+      "src": "/icons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
